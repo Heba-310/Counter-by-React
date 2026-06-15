@@ -1,2 +1,23 @@
-# Counter-by-React
-A simple React Counter App built with useState. Supports increment, decrement, and reset actions while dynamically showing whether the current value is even or odd.
+# React Counter App
+
+A simple Counter application built with React using Hooks (`useState`).
+
+## Features
+
+* Increment counter value
+* Decrement counter value
+* Reset counter to zero
+* Responsive and simple UI
+
+## Technologies Used
+
+* React
+* JavaScript (ES6+)
+* CSS
+
+## What I Learned
+
+* Managing state with `useState`
+* Handling events in React
+* Component-based development
+* Updating UI dynamically based on state changes
